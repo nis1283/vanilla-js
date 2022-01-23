@@ -96,8 +96,6 @@ body {
   background-color: var(--bg-gray);
   padding: 10px 15px;
   border-radius: 50px;
-  position: absolute;
-  bottom: 20px;
 }
 #quote span {
   font-size: 20px;
