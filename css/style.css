@@ -103,6 +103,9 @@ body {
   font-size: 20px;
   color: var(--text-color);
 }
+#quote span:last-child {
+  font-weight: bold;
+}
 
 /*weather*/
 #weather {
